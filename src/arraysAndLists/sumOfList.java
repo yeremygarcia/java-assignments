@@ -1,5 +1,5 @@
-package arraysandlists;
-    public class sumoflist {
+/*package arraysAndlists;
+    public class sumOflist {
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
             ArrayList<Integer> listOfNumbers = new ArrayList<>();
@@ -26,3 +26,4 @@ package arraysandlists;
             return totalSum;
         }
     }
+*/

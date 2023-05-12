@@ -1,9 +1,9 @@
-package arraysandlists;
-public class indexofinteger {
+/*package arraysAndLists;
+public class indexOfInteger {
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
             ArrayList<Integer> listOfNumbers = new ArrayList<>();
-
+}}
             while (true) {
                 int inputNumber = Integer.valueOf(scanner.nextLine());
                 if (inputNumber == 0) {
@@ -23,3 +23,4 @@ public class indexofinteger {
 
         }
     }
+*/

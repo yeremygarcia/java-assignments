@@ -1,4 +1,4 @@
-package week1java;
+/*package week1java;
 public class chatbot {
         public static void main(String[] args){
 
@@ -144,3 +144,4 @@ public class chatbot {
 }
 
 
+*/

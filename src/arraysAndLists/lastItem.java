@@ -1,5 +1,5 @@
-package arraysandlists;
-    public class FifthItem {
+/* package arraysAndLists;
+    public class lastitem {
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
             ArrayList<String> listOfStrings = new ArrayList<>();
@@ -12,6 +12,10 @@ package arraysandlists;
                 }
                 listOfStrings.add(input);
             }
-            System.out.println("The fifth item in the list is: " + listOfStrings.get(4));
+            String theLastItem = listOfStrings.get(listOfStrings.size() - 1);
+            System.out.println("The last item in the list is: " + theLastItem);
+
         }
     }
+}
+*/
