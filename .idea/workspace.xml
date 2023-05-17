@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88875d97-d5b8-4781-b7ba-ffcd6e096b32" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/LibraryManagementSystem/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LibraryManagementSystem/DVD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LibraryManagementSystem/LibraryApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LibraryManagementSystem/LibraryItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LibraryManagementSystem/LibraryManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LibraryManagementSystem/LibraryOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hash/Abbreviations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hash/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hash/Nicknames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hash/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hash/ProgramExt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,13 +20,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2Pd2hnbFkzQGQeZIiDj23fZBDCn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -48,7 +50,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/jeremygarcia/Desktop/Java-assignments/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -76,7 +78,10 @@
       <updated>1683772759720</updated>
       <workItem from="1683772761227" duration="3037000" />
       <workItem from="1683854835966" duration="14095000" />
-      <workItem from="1684200948953" duration="4022000" />
+      <workItem from="1684200948953" duration="5612000" />
+      <workItem from="1684261452751" duration="64000" />
+      <workItem from="1684261538192" duration="119000" />
+      <workItem from="1684294722589" duration="1247000" />
     </task>
     <task id="LOCAL-00001" summary="'1'">
       <created>1683772855843</created>
@@ -120,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683960423348</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1">
+      <created>1684209593484</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684209593485</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
