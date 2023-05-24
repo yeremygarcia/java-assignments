@@ -115,7 +115,7 @@ import java.util.Comparator;
             System.out.println();
 
 
-            List<Book> booksByAuthor = library.findBooksByAuthor("Dr Seuss);
+            List<Book> booksByAuthor = library.findBooksByAuthor("Dr Seuss");
             System.out.println("Dr. Suess' books:");
             for (Book book : booksByAuthor) {
                 library.printBookDetails.accept(book);
